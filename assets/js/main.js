@@ -40,6 +40,10 @@ console.log(unsereHaustiere[0].names[1]);
 console.log(unsereHaustiere[1].names[2]);
 console.log(unsereHaustiere[1].names);
 
+unsereHaustiere.push("Knöpfen","pinselchen","droopy");
+console.log(unsereHaustiere); // nicht erfolgreich. an Trainer fragen !!
+
+
 console.log('')
 console.log('')
 console.log('lev1_5: Objects Accessing')
